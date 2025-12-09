@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Aditya-Chavan&fontSize=50&fontColor=FFFFFF&animation=twinkling&color=0:7B2FF7,100:00FFB3&fontAlignY=40" alt="Aditya  Chavan  Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Aditya Chavan&fontSize=50&fontColor=FFFFFF&animation=twinkling&color=0:7B2FF7,100:00FFB3&fontAlignY=40" alt="Aditya  Chavan  Header"/>
 </p>
 
 <div align="center">
