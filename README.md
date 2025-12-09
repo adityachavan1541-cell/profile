@@ -1,11 +1,7 @@
-<!-- 🌟 VISHAL DESHMUKH - Auto-Theme Elegant GitHub Profile 🌟 --> 
 
-<!-- 🌟 Stylish Dark-Mode Animated Header -->
-
-<!-- 🌟 Dark-Mode Stylish Header (GitHub-Safe) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=VISHAL_DESHMUKH&fontSize=50&fontColor=FFFFFF&animation=twinkling&color=0:7B2FF7,100:00FFB3&fontAlignY=40" alt="Aditya  Chavan  Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Aditya-Chavan&fontSize=50&fontColor=FFFFFF&animation=twinkling&color=0:7B2FF7,100:00FFB3&fontAlignY=40" alt="Aditya  Chavan  Header"/>
 </p>
 
 <div align="center">
@@ -17,7 +13,7 @@
 ## 👨‍💻 About Me  
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=500&color=00FFB3&center=true&vCenter=true&width=700&lines=Hey%20there!%20I'm%20Vishal%20Deshmukh;Creative%20Full%20Stack%20Developer;Blending%20logic%20and%20design;Exploring%20React,%20Java%20and%20Cloud;Love%20collaboration%20and%20learning;Code%20it%20clean,%20design%20it%20bold" alt="Typing Animation About Me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=500&color=00FFB3&center=true&vCenter=true&width=700&lines=Hey%20there!%20I'm%20Aditya%20Chavan;Creative%20Full%20Stack%20Developer;Blending%20logic%20and%20design;Exploring%20React,%20Java%20and%20Cloud;Love%20collaboration%20and%20learning;Code%20it%20clean,%20design%20it%20bold" alt="Typing Animation About Me"/>
 </div>
 
 <p align="center">
